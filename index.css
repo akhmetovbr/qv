@@ -1,0 +1,33 @@
+
+#box {
+    font-size: 120%;
+    font-family:serif; 
+    color: black;
+    ;
+}
+#box1 ul {
+
+    text-align: left;
+    font-family:serif;
+    color: black ;
+}
+ul {
+    padding: 0;
+    margin-left: 80px;
+    color:black;
+}
+a {
+    margin-right: 0px;
+    margin-left: 10px;
+    margin-bottom: auto;
+}
+
+.text {
+    text-indent: 50px;
+    text-align: left;
+    color: black;
+    font-size: large;
+}
+h1 {
+    color: black;
+}
